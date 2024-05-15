@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre Mim
-🎓 desenvolvedor Fullstack Java pela EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+🎓 desenvolvedor Fullstack Java pela EBAC - Escola Britânica de Artes Criativas e Tecnologia. <br>
 🌱 Atualmente estou aprendendo mais sobre microservices e arquitetura de software.
 💼 Busco oportunidades para contribuir com projetos desafiadores e continuar meu crescimento profissional.
 💬 Fique à vontade para me contatar para discutir projetos ou apenas bater um papo sobre tecnologia.
