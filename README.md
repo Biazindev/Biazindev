@@ -14,6 +14,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biazindev&repo=SistemaGerenciamentoVendas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### teste
+### Linguagens utilizadas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biazindev&repo=biazindev.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biazindev&size_weight=0.5&count_weight=0.5)
