@@ -9,3 +9,7 @@
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biazindev&show)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biazindev&hide=contribs,prs)
