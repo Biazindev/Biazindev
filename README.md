@@ -8,4 +8,4 @@
 
 ### Detalhes
 
-[![Anurag's Github stats](https://github-readee-stats.vercel.app/api?username-biazindevshow icons-true theme-dark)](https://github.com/anuraghazra/github-readee-stars)
+[![Anurag's Github stats](https://github-readee-stats.vercel.app/api?username-Biazindevshow icons-true theme-dark)](https://github.com/anuraghazra/github-readee-stars)
